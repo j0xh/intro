@@ -1,60 +1,63 @@
-<p align="center">
-  <img src="https://i.ibb.co/PG11fT0S/1051082n9y27qwafc.gif" alt="" />
-</p>
-
-<p align="center" style="font-size: 16px; color: #555; font-style: italic;">
-  One payload at a time
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OSCP-Upcoming-ff5555?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=j0xh&style=flat-square&color=gray" alt="GitHub Profile Views" />
-</p>
-
----
-
 ## About Me
-I’m a 19-year-old **South African** cybersecurity student crafting real-world offensive and defensive tooling with a focus on **practicality** and **precision**.
+South African IT & cybersecurity student focused on building **practical, real-world tooling** for system administration, security monitoring, and infrastructure support.
+
+I prioritize **clarity, reliability, and operational usefulness** in everything I build — from Linux utilities to security-focused automation.
 
 ---
 
-## Skills
+## Technical Skills
 
-| Category       | Tools & Tech                                                                                   |
-|----------------|------------------------------------------------------------------------------------------------|
-| **Languages**  | `Python`, `C`, `Bash`, `HTML`                                                                 |
-| **Security**   | `Encryption`, `Hardening`, `System Configurations`, `OSINT`                                    |
-| **Embedded**   | `ESP32`, `Arduino`                                                                             |
-| **Tooling**    | `MSF`, `BurpSuite`, `Netcat`, `Port Scanners`, `SQL Mapping`, `BloodHound`                    |
+**Languages**
+- Python, C, Bash, HTML
 
----
+**Operating Systems & Infrastructure**
+- Linux (Debian, Arch, Kali)
+- System configuration & hardening
+- Networking fundamentals & diagnostics
 
-## Current Objectives
+**Security & IT**
+- Endpoint security basics
+- Log analysis & monitoring
+- OSINT fundamentals
+- Secure system configuration
+- Troubleshooting & incident triage
 
-- Finalize **OSCP**
-- Expand offensive tooling skillset and methodology fluency
-- Build out red team automation: recon, exfiltration, stealth persistence tooling
-- Dive deeper into low-level languages to build a strong reverse engineering foundation
-
----
-
-## Disclosure & Ethics
-
-All code is strictly for **authorized engagements** and **educational purposes** only.
-
-If you believe one of my tools or repositories raises security concerns or could be misused, contact me at **xorsecret@proton.me** for immediate resolution or disclosure.
-
----
-
-## Contact & Network
-
-| Platform   | Link |
-|------------|------|
-| **Email**  | [`xorsecret@proton.me`](mailto:xorsecret@proton.me) |
-| **GitHub** | [github.com/j0xh](https://github.com/j0xh) |
+**Tooling**
+- Metasploit
+- Burp Suite
+- Netcat
+- Port scanners
+- SQL testing tools
+- BloodHound (analysis & visualization)
 
 ---
 
-<p align="center">
-  <sub><i>Security is non-negotiable.</i></sub>
-</p>
+## Current Focus
+- Completing **CompTIA Security+**
+- Building **IT & security support tooling**
+- Developing hands-on experience with:
+  - System diagnostics
+  - Network monitoring
+  - Log inspection & alerting
+- Strengthening Linux administration & scripting skills
+
+---
+
+## Projects
+This repository contains tools designed for:
+- IT support & diagnostics
+- Security monitoring
+- Lab environments & education
+- Authorized testing only
+
+Each project includes clear documentation and realistic use cases.
+
+---
+
+## Ethics & Responsible Use
+All code is intended strictly for **authorized, educational, and defensive purposes**.
+
+If any repository raises concerns, please contact me directly for responsible disclosure.
+
+**Contact:** xorsecret@proton.me  
+**GitHub:** https://github.com/j0xh
