@@ -33,7 +33,8 @@ I prioritize **clarity, reliability, and operational usefulness** in everything 
 ---
 
 ## Current Focus
-- Completing **CompTIA Security+**
+- Actively studying for **CompTIA Security+**
+- Planning progression to **CompTIA Linux+** and **OSCP**
 - Building **IT & security support tooling**
 - Developing hands-on experience with:
   - System diagnostics
@@ -44,7 +45,7 @@ I prioritize **clarity, reliability, and operational usefulness** in everything 
 ---
 
 ## Projects
-This repository contains tools designed for:
+My tools designed for:
 - IT support & diagnostics
 - Security monitoring
 - Lab environments & education
