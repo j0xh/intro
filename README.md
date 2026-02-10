@@ -25,7 +25,7 @@ A long term goal of mine is to obtain a well rounded understanding in exploitati
 - Next JS 
 
 ###  Operating Systems & Infrastructure
-- Linux (Debian, Arch, Kali)  
+- Linux (Debian, Arch, Kali, Alma)  
 - Windows internals & automation
 - .NET
 - System configuration and basic hardening/auditing 
