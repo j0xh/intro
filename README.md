@@ -73,7 +73,7 @@ Each repository includes documentation and realistic use cases.
 
 ##  Ethics & Responsible Use
 All code is intended for **authorized, educational, and defensive purposes only**.
-
+I am not responsible for any damage/corruption. It is the end user's responsibility to use with ethical intention.
 If any repository raises concerns, please contact me for responsible disclosure.
 
 ---
