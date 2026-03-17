@@ -1,83 +1,45 @@
-#  Who Am I
+## Who I Am
 
-<!-- Demo / Preview (replace with your GIF or image) -->
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/bb/d3/7c/bbd37cd4cf5b229651561fc0b53184e3.jpg" alt="Project demo" width="700"/>
-</p>
+South African IT and cybersecurity student focused on **system administration, network monitoring, and security visibility**.
 
-South African IT and cybersecurity student focused on building practical tools for system administration, security monitoring, and network administration.
+I build practical tools for:
+- Security
+- System diagnostics  
+- Network analysis  
+- Monitoring and troubleshooting
 
-I enjoy working close to the operating system layer and building small, reliable utilities that help with diagnostics, monitoring, and troubleshooting. My goal is to develop strong fundamentals in Linux, networking, and Windows internals while producing tools that are useful in real environments.
+My focus is on developing strong, real-world skills in **Linux, Windows, and networking**, while creating utilities that can be used in IT support and security operations environments.
 
-A long term goal of mine is to obtain a well rounded understanding in exploitation on kernel level and it's development with x64 Assembly.
+I’m particularly interested in **security, log analysis, and detecting abnormal system behavior**.
+
+**Actively seeking entry-level IT or SOC Analyst opportunities.**
 
 ---
 
-##  Technical Skills
+## Technical Skills
 
-###  Languages
+### Language experience
 - C++
 - C#
 - Python
 - Bash
 - PowerShell
-- HTML
-- Next JS 
 
-###  Operating Systems & Infrastructure
-- Linux (Debian, Arch, Kali, Alma)  
-- Windows internals & automation
-- .NET
-- System configuration and basic hardening/auditing 
-- Networking fundamentals and diagnostics
-  
+### Systems & Infrastructure
+- Linux (Debian, Arch, Kali, Alma, Ubuntu)
+- Windows administration & automation
+- Networking fundamentals (TCP/IP, ports, DNS, routing)
+- System configuration and hardening
 
-###  Security & IT
+### IT & Security
+- System and network diagnostics  
+- Log inspection and anomaly detection  
 - Endpoint monitoring concepts  
-- Log inspection and basic alerting  
-- Secure system configuration  
 - Incident triage and troubleshooting  
-- Basic vulnerability testing (labs & education)  
 
-###  Tools
-- Wireshark  
-- Nmap  
-- Metasploit (lab use)  
-- Burp Suite (lab use)  
-- BloodHound (analysis & visualization)  
-- Git  
-
----
-
-##  Current Focus
-- Studying toward **CompTIA Security+ , Network+ and Offesnive Security's OSCP**  
-- Building small IT and security monitoring tools  
-- Strengthening skills in:
-  - System diagnostics  
-  - Network monitoring  
-  - Process and file activity tracking  
-  - Linux administration and scripting  
-
----
-
-##  Projects
-My projects focus on:
-- IT support and diagnostics  
-- Security monitoring and visibility  
-- Lab environments and education  
-- Authorized testing only  
-
-Each repository includes documentation and realistic use cases.
-
----
-
-##  Ethics & Responsible Use
-All code is intended for **authorized, educational, and defensive purposes only**.
-I am not responsible for any damage/corruption. It is the end user's responsibility to use with ethical intention.
-If any repository raises concerns, please contact me for responsible disclosure.
-
----
-
-##  Contact
-**Email:** j0xhsec@proton.me
-**GitHub:** https://github.com/j0xh
+### Tools
+- Proficient with Kali Linux entirely.
+- Wireshark
+- Nmap
+- Git
+- Burp Suite
