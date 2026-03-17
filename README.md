@@ -1,4 +1,4 @@
-## Who I Am
+## Who Am I
 
 South African IT and cybersecurity student focused on **system administration, network monitoring, and security visibility**.
 
